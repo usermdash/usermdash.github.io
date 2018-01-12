@@ -1,3 +1,5 @@
 Landing Page -1 
 
 Portfolio -2 
+
+Green : #ecf0f1;
